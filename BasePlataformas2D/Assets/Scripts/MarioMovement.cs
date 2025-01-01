@@ -8,20 +8,25 @@ public class MarioMovement : MonoBehaviour
 
     private Rigidbody2D rigidbody2D;
     private float horizontal;
+    //El Animator contiene información sobre las animaciones (para que cambie a CORRER, SALTAR, ETC)
+    private Animator animator;
 
     void Start()
     {
         //Esto busca un componente "Rigidbody2D". Como el Script va a estar asociado al personaje (Mario), va a coger el de Mario.
         rigidbody2D = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
     private void Update()
     {
-        //Si pulsa "A" => -1
-        //Si pulsa "D" => +1
+        //Si pulsa "A" o flecha izq => -1
+        //Si pulsa "D" o flecha der => +1
         horizontal = Input.GetAxisRaw("Horizontal");
 
-        //Si se está pulsando la tecla "Espacio"
+        //Esto hace que se active la animación de CORRER si la horizontal es distinto de 0, es decir si está corriendo para un lado o para otro.
+        animator.SetBool("running", horizontal != 0);
+
         if (Input.GetKeyDown(KeyCode.Space) && marioIsGrounded())
         {
             Debug.Log("Se ha pulsado la techa de saltar.");
