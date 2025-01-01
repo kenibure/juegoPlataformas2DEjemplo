@@ -1,0 +1,7007 @@
+fileFormatVersion: 2
+guid: c24d605765b099a4ab1ca67cc9cf51ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5863075460828850356
+    second: spirtesMario_0
+  - first:
+      213: -1752704008722784129
+    second: spirtesMario_1
+  - first:
+      213: -7615303508606689174
+    second: spirtesMario_2
+  - first:
+      213: -874981632359570450
+    second: spirtesMario_3
+  - first:
+      213: 6148494133846034149
+    second: spirtesMario_4
+  - first:
+      213: 7190056096626451920
+    second: spirtesMario_5
+  - first:
+      213: -8126382837792399595
+    second: spirtesMario_6
+  - first:
+      213: 256379124179596339
+    second: spirtesMario_7
+  - first:
+      213: -5234452957302699582
+    second: spirtesMario_8
+  - first:
+      213: -3524750876067943529
+    second: spirtesMario_9
+  - first:
+      213: -5551069397197055468
+    second: spirtesMario_10
+  - first:
+      213: 7731081747846997505
+    second: spirtesMario_11
+  - first:
+      213: 6922672279873614042
+    second: spirtesMario_12
+  - first:
+      213: 7747690472964838867
+    second: spirtesMario_13
+  - first:
+      213: -1783476057697804364
+    second: spirtesMario_14
+  - first:
+      213: -3117058487814763430
+    second: spirtesMario_15
+  - first:
+      213: 8418409541847736898
+    second: spirtesMario_16
+  - first:
+      213: -4737344334106326669
+    second: spirtesMario_17
+  - first:
+      213: 8547924816224113723
+    second: spirtesMario_18
+  - first:
+      213: 6802691226389278135
+    second: spirtesMario_19
+  - first:
+      213: -6112986375708074055
+    second: spirtesMario_20
+  - first:
+      213: 925203070369769838
+    second: spirtesMario_21
+  - first:
+      213: -8182219967412253631
+    second: spirtesMario_22
+  - first:
+      213: 5295573154368832081
+    second: spirtesMario_23
+  - first:
+      213: 4920994953287027495
+    second: spirtesMario_24
+  - first:
+      213: -7165578051214920974
+    second: spirtesMario_25
+  - first:
+      213: -3842154574471233790
+    second: spirtesMario_26
+  - first:
+      213: 5707057459926914822
+    second: spirtesMario_27
+  - first:
+      213: 6046401682248791193
+    second: spirtesMario_28
+  - first:
+      213: 7402548816636857281
+    second: spirtesMario_29
+  - first:
+      213: 2773136467685670295
+    second: spirtesMario_30
+  - first:
+      213: -362624569163712679
+    second: spirtesMario_31
+  - first:
+      213: -7661926284843956218
+    second: spirtesMario_32
+  - first:
+      213: -3545530085201728162
+    second: spirtesMario_33
+  - first:
+      213: 6848553227738942418
+    second: spirtesMario_34
+  - first:
+      213: 1343905541226983286
+    second: spirtesMario_35
+  - first:
+      213: -4287760925225339005
+    second: spirtesMario_36
+  - first:
+      213: 655396662403140524
+    second: spirtesMario_37
+  - first:
+      213: 6930997912280128243
+    second: spirtesMario_38
+  - first:
+      213: -5205496064165276788
+    second: spirtesMario_39
+  - first:
+      213: 3231968591996553342
+    second: spirtesMario_40
+  - first:
+      213: 7878632751370126463
+    second: spirtesMario_41
+  - first:
+      213: 3011487984733308982
+    second: spirtesMario_42
+  - first:
+      213: -1002103281908662839
+    second: spirtesMario_43
+  - first:
+      213: 1873050382874451959
+    second: spirtesMario_44
+  - first:
+      213: -2921150907205185584
+    second: spirtesMario_45
+  - first:
+      213: 4739584121806289791
+    second: spirtesMario_46
+  - first:
+      213: -6152629819192417602
+    second: spirtesMario_47
+  - first:
+      213: 5711030743007666950
+    second: spirtesMario_48
+  - first:
+      213: -4558542716678536980
+    second: spirtesMario_49
+  - first:
+      213: -8291669582353018602
+    second: spirtesMario_50
+  - first:
+      213: -3780424514424892992
+    second: spirtesMario_51
+  - first:
+      213: -4866054603329134038
+    second: spirtesMario_52
+  - first:
+      213: -3755346880363239169
+    second: spirtesMario_53
+  - first:
+      213: 1300602952567760177
+    second: spirtesMario_54
+  - first:
+      213: 7119376195631526119
+    second: spirtesMario_55
+  - first:
+      213: 1426203725895396070
+    second: spirtesMario_56
+  - first:
+      213: -2352993510832274942
+    second: spirtesMario_57
+  - first:
+      213: 4957730651334026461
+    second: spirtesMario_58
+  - first:
+      213: -2297773503291061171
+    second: spirtesMario_59
+  - first:
+      213: 6775538001632813818
+    second: spirtesMario_60
+  - first:
+      213: 5723844960516516454
+    second: spirtesMario_61
+  - first:
+      213: -656949218674421889
+    second: spirtesMario_62
+  - first:
+      213: 1069059446108674287
+    second: spirtesMario_63
+  - first:
+      213: 1564271628819090308
+    second: spirtesMario_64
+  - first:
+      213: -7722675861590944074
+    second: spirtesMario_65
+  - first:
+      213: 4005236892446827367
+    second: spirtesMario_66
+  - first:
+      213: 3036747557024241928
+    second: spirtesMario_67
+  - first:
+      213: -291456560838368444
+    second: spirtesMario_68
+  - first:
+      213: 2795438519878758785
+    second: spirtesMario_69
+  - first:
+      213: -6063773854039548703
+    second: spirtesMario_70
+  - first:
+      213: 141067855400553088
+    second: spirtesMario_71
+  - first:
+      213: 9069619684293142750
+    second: spirtesMario_72
+  - first:
+      213: 787076579872099322
+    second: spirtesMario_73
+  - first:
+      213: -301535683969748209
+    second: spirtesMario_74
+  - first:
+      213: -5320602889023792621
+    second: spirtesMario_75
+  - first:
+      213: -2001018850953620618
+    second: spirtesMario_76
+  - first:
+      213: 123019953420219530
+    second: spirtesMario_77
+  - first:
+      213: 8973028928426178521
+    second: spirtesMario_78
+  - first:
+      213: -1179931084444467990
+    second: spirtesMario_79
+  - first:
+      213: -3478969977783461642
+    second: spirtesMario_80
+  - first:
+      213: -580180312409239321
+    second: spirtesMario_81
+  - first:
+      213: 6106866863539145467
+    second: spirtesMario_82
+  - first:
+      213: 5156938482768821127
+    second: spirtesMario_83
+  - first:
+      213: -3992209872964257656
+    second: spirtesMario_84
+  - first:
+      213: 765126213363153820
+    second: spirtesMario_85
+  - first:
+      213: 7614610946988677940
+    second: spirtesMario_86
+  - first:
+      213: 1469270372366343999
+    second: spirtesMario_87
+  - first:
+      213: -7788656294169748549
+    second: spirtesMario_88
+  - first:
+      213: -2386776727690394262
+    second: spirtesMario_89
+  - first:
+      213: 6382991238366861730
+    second: spirtesMario_90
+  - first:
+      213: 7251946220887600397
+    second: spirtesMario_91
+  - first:
+      213: 1062715813853024187
+    second: spirtesMario_92
+  - first:
+      213: 9166921372918534265
+    second: spirtesMario_93
+  - first:
+      213: -5302593884720936045
+    second: spirtesMario_94
+  - first:
+      213: 1098384325432711972
+    second: spirtesMario_95
+  - first:
+      213: -1848826119493732033
+    second: spirtesMario_96
+  - first:
+      213: 5595874383486409773
+    second: spirtesMario_97
+  - first:
+      213: 508876303797772659
+    second: spirtesMario_98
+  - first:
+      213: -7138000583424743975
+    second: spirtesMario_99
+  - first:
+      213: -8773477248717092117
+    second: spirtesMario_100
+  - first:
+      213: -6423518282965621187
+    second: spirtesMario_101
+  - first:
+      213: 6321001972188972858
+    second: spirtesMario_102
+  - first:
+      213: 8778464990463146068
+    second: spirtesMario_103
+  - first:
+      213: 8204958664557054215
+    second: spirtesMario_104
+  - first:
+      213: 1969453403373242963
+    second: spirtesMario_105
+  - first:
+      213: 3578410331519964399
+    second: spirtesMario_106
+  - first:
+      213: 5149804718506468535
+    second: spirtesMario_107
+  - first:
+      213: -578615925795777092
+    second: spirtesMario_108
+  - first:
+      213: 1827412334975966910
+    second: spirtesMario_109
+  - first:
+      213: 676531434228450412
+    second: spirtesMario_110
+  - first:
+      213: 3785095524769631272
+    second: spirtesMario_111
+  - first:
+      213: 3722628681204958612
+    second: spirtesMario_112
+  - first:
+      213: 406099880777166811
+    second: spirtesMario_113
+  - first:
+      213: 7673705688582405142
+    second: spirtesMario_114
+  - first:
+      213: -2337217647185274591
+    second: spirtesMario_115
+  - first:
+      213: -2117684141950767987
+    second: spirtesMario_116
+  - first:
+      213: -4907064440050009379
+    second: spirtesMario_117
+  - first:
+      213: 3380751552800209612
+    second: spirtesMario_118
+  - first:
+      213: 1490977546154968849
+    second: spirtesMario_119
+  - first:
+      213: 187619511693839495
+    second: spirtesMario_120
+  - first:
+      213: 7742356342305528939
+    second: spirtesMario_121
+  - first:
+      213: 7794439908918063365
+    second: spirtesMario_122
+  - first:
+      213: -5816425034092260992
+    second: spirtesMario_123
+  - first:
+      213: -7392651426173031973
+    second: spirtesMario_124
+  - first:
+      213: 4851464584554087254
+    second: spirtesMario_125
+  - first:
+      213: -4418035547477583586
+    second: spirtesMario_126
+  - first:
+      213: -2551723052148890842
+    second: spirtesMario_127
+  - first:
+      213: -8858928345695481690
+    second: spirtesMario_128
+  - first:
+      213: 1818457112411404161
+    second: spirtesMario_129
+  - first:
+      213: 8120841037679710468
+    second: spirtesMario_130
+  - first:
+      213: -3439267423377287813
+    second: spirtesMario_131
+  - first:
+      213: -4353583247916838884
+    second: spirtesMario_132
+  - first:
+      213: -5386121949209802845
+    second: spirtesMario_133
+  - first:
+      213: -2292414763778108187
+    second: spirtesMario_134
+  - first:
+      213: 4815551914399325053
+    second: spirtesMario_135
+  - first:
+      213: 1117039018168719413
+    second: spirtesMario_136
+  - first:
+      213: 2930964083857228343
+    second: spirtesMario_137
+  - first:
+      213: -4545163674285712051
+    second: spirtesMario_138
+  - first:
+      213: -7690698301323024541
+    second: spirtesMario_139
+  - first:
+      213: 434985463905586582
+    second: spirtesMario_140
+  - first:
+      213: -4403500506245935815
+    second: spirtesMario_141
+  - first:
+      213: 5644026427023210854
+    second: spirtesMario_142
+  - first:
+      213: -7605558784314613559
+    second: spirtesMario_143
+  - first:
+      213: -164279726087384276
+    second: spirtesMario_144
+  - first:
+      213: -8806171945525928660
+    second: spirtesMario_145
+  - first:
+      213: -5442865010368926945
+    second: spirtesMario_146
+  - first:
+      213: 5700672332099315126
+    second: spirtesMario_147
+  - first:
+      213: 5458884956354919769
+    second: spirtesMario_148
+  - first:
+      213: 753677843866534864
+    second: spirtesMario_149
+  - first:
+      213: 8034727858682117925
+    second: spirtesMario_150
+  - first:
+      213: -3068245240207706613
+    second: spirtesMario_151
+  - first:
+      213: -5076945169766837518
+    second: spirtesMario_152
+  - first:
+      213: 5764318224050536799
+    second: spirtesMario_153
+  - first:
+      213: -1349898891789388309
+    second: spirtesMario_154
+  - first:
+      213: 1286229882909043647
+    second: spirtesMario_155
+  - first:
+      213: 4322424904059982383
+    second: spirtesMario_156
+  - first:
+      213: -7860247278814171366
+    second: spirtesMario_157
+  - first:
+      213: 272937875504643772
+    second: spirtesMario_158
+  - first:
+      213: 4047292122067350260
+    second: spirtesMario_159
+  - first:
+      213: -2685605652838851316
+    second: spirtesMario_160
+  - first:
+      213: 8422032015627200141
+    second: spirtesMario_161
+  - first:
+      213: 8349502105225468384
+    second: spirtesMario_162
+  - first:
+      213: -4190873571161850466
+    second: spirtesMario_163
+  - first:
+      213: -1614610923333172999
+    second: spirtesMario_164
+  - first:
+      213: 8973487189558227632
+    second: spirtesMario_165
+  - first:
+      213: -5115077757453032493
+    second: spirtesMario_166
+  - first:
+      213: -832873375691891343
+    second: spirtesMario_167
+  - first:
+      213: -6307385945151123087
+    second: spirtesMario_168
+  - first:
+      213: 3853977993504999531
+    second: spirtesMario_169
+  - first:
+      213: -8779053761658010490
+    second: spirtesMario_170
+  - first:
+      213: 6917533220157942720
+    second: spirtesMario_171
+  - first:
+      213: 4469962371346672928
+    second: spirtesMario_172
+  - first:
+      213: 457478378386503165
+    second: spirtesMario_173
+  - first:
+      213: -2967875937738666759
+    second: spirtesMario_174
+  - first:
+      213: 4301476877033304386
+    second: spirtesMario_175
+  - first:
+      213: -2553764572104702332
+    second: spirtesMario_176
+  - first:
+      213: 6155050609033901324
+    second: spirtesMario_177
+  - first:
+      213: -3833065526681408255
+    second: spirtesMario_178
+  - first:
+      213: 852101727728465562
+    second: spirtesMario_179
+  - first:
+      213: -6156985077979054445
+    second: spirtesMario_180
+  - first:
+      213: 8628566948673612982
+    second: spirtesMario_181
+  - first:
+      213: -1659628809494014083
+    second: spirtesMario_182
+  - first:
+      213: -246219614237677982
+    second: spirtesMario_183
+  - first:
+      213: 3344464441025933491
+    second: spirtesMario_184
+  - first:
+      213: -6362813253810163653
+    second: spirtesMario_185
+  - first:
+      213: -7067777488944269521
+    second: spirtesMario_186
+  - first:
+      213: -1865085097170316931
+    second: spirtesMario_187
+  - first:
+      213: -7956983118235414233
+    second: spirtesMario_188
+  - first:
+      213: 2316419557476080223
+    second: spirtesMario_189
+  - first:
+      213: 1098040585368276699
+    second: spirtesMario_190
+  - first:
+      213: -4305718949753449813
+    second: spirtesMario_191
+  - first:
+      213: -1777577245197154509
+    second: spirtesMario_192
+  - first:
+      213: 2309689484260561520
+    second: spirtesMario_193
+  - first:
+      213: -8245453117962962255
+    second: spirtesMario_194
+  - first:
+      213: 5017696420237925101
+    second: spirtesMario_195
+  - first:
+      213: 3856583428867915925
+    second: spirtesMario_196
+  - first:
+      213: 6788489232108181506
+    second: spirtesMario_197
+  - first:
+      213: 2868483159510913656
+    second: spirtesMario_198
+  - first:
+      213: 1150119004274262206
+    second: spirtesMario_199
+  - first:
+      213: 6356253039395820342
+    second: spirtesMario_200
+  - first:
+      213: -8576866809555614904
+    second: spirtesMario_201
+  - first:
+      213: -5556408464499893184
+    second: spirtesMario_202
+  - first:
+      213: 1304146709097566532
+    second: spirtesMario_203
+  - first:
+      213: 1196482033679625000
+    second: spirtesMario_204
+  - first:
+      213: -2254201412982619817
+    second: spirtesMario_205
+  - first:
+      213: 3896684832658553661
+    second: spirtesMario_206
+  - first:
+      213: 1642797255900346831
+    second: spirtesMario_207
+  - first:
+      213: -8305783915733998265
+    second: spirtesMario_208
+  - first:
+      213: 7187796229860032230
+    second: spirtesMario_209
+  - first:
+      213: -456450919983330633
+    second: spirtesMario_210
+  - first:
+      213: -5140025005634363678
+    second: spirtesMario_211
+  - first:
+      213: -2140308592506260753
+    second: spirtesMario_212
+  - first:
+      213: 6149433460504282604
+    second: spirtesMario_213
+  - first:
+      213: -6979970697344443493
+    second: spirtesMario_214
+  - first:
+      213: 8421978729981685645
+    second: spirtesMario_215
+  - first:
+      213: 749046608698236436
+    second: spirtesMario_216
+  - first:
+      213: 2504044151559117695
+    second: spirtesMario_217
+  - first:
+      213: 6821351859282953956
+    second: spirtesMario_218
+  - first:
+      213: 3621302934317679087
+    second: spirtesMario_219
+  - first:
+      213: 3861726101187894707
+    second: spirtesMario_220
+  - first:
+      213: 7939035343113381974
+    second: spirtesMario_221
+  - first:
+      213: -3550999158090093757
+    second: spirtesMario_222
+  - first:
+      213: 8883038686901765899
+    second: spirtesMario_223
+  - first:
+      213: 1603136748540782539
+    second: spirtesMario_224
+  - first:
+      213: -6923086157582994991
+    second: spirtesMario_225
+  - first:
+      213: -7925265178305577536
+    second: spirtesMario_226
+  - first:
+      213: 2840272414962300021
+    second: spirtesMario_227
+  - first:
+      213: -4554521319130062353
+    second: spirtesMario_228
+  - first:
+      213: 2127569637932840408
+    second: spirtesMario_229
+  - first:
+      213: -4694870075288584340
+    second: spirtesMario_230
+  - first:
+      213: 950610243687838271
+    second: spirtesMario_231
+  - first:
+      213: -6052645986346520317
+    second: spirtesMario_232
+  - first:
+      213: 726623046111205379
+    second: spirtesMario_233
+  - first:
+      213: -3593153536627328137
+    second: spirtesMario_234
+  - first:
+      213: -2509481314242630142
+    second: spirtesMario_235
+  - first:
+      213: -2082062224310663921
+    second: spirtesMario_236
+  - first:
+      213: -3887005407539190973
+    second: spirtesMario_237
+  - first:
+      213: -838472526031185883
+    second: spirtesMario_238
+  - first:
+      213: -2762888756716817814
+    second: spirtesMario_239
+  - first:
+      213: 6804430609851920139
+    second: spirtesMario_240
+  - first:
+      213: -7825423287017845831
+    second: spirtesMario_241
+  - first:
+      213: 3336135593736389093
+    second: spirtesMario_242
+  - first:
+      213: 5010093589337987269
+    second: spirtesMario_243
+  - first:
+      213: -7479684195683697867
+    second: spirtesMario_244
+  - first:
+      213: 5912342280762944172
+    second: spirtesMario_245
+  - first:
+      213: -6305034623394508923
+    second: spirtesMario_246
+  - first:
+      213: 6108537013226275804
+    second: spirtesMario_247
+  - first:
+      213: -8667832466131070697
+    second: spirtesMario_248
+  - first:
+      213: -6198114138159867296
+    second: spirtesMario_249
+  - first:
+      213: -7996902521762035247
+    second: spirtesMario_250
+  - first:
+      213: -1098218099052697650
+    second: spirtesMario_251
+  - first:
+      213: 3279608751008862939
+    second: spirtesMario_252
+  - first:
+      213: -2231237524313472989
+    second: spirtesMario_253
+  - first:
+      213: -5425841988690283749
+    second: spirtesMario_254
+  - first:
+      213: 4725787663257330201
+    second: spirtesMario_255
+  - first:
+      213: -4376718722444369955
+    second: spirtesMario_256
+  - first:
+      213: 5677788958847284080
+    second: spirtesMario_257
+  - first:
+      213: 1354987450645255242
+    second: spirtesMario_258
+  - first:
+      213: 2897068866438096418
+    second: spirtesMario_259
+  - first:
+      213: -5778526362477316432
+    second: spirtesMario_260
+  - first:
+      213: 7661289480756473810
+    second: spirtesMario_261
+  - first:
+      213: -4535036489871169804
+    second: spirtesMario_262
+  - first:
+      213: 5183065140743960095
+    second: spirtesMario_263
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spirtesMario_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 367
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c479cf9aeeb22aea0800000000000000
+      internalID: -5863075460828850356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 367
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70eca38df42da7e0800000000000000
+      internalID: -1752704008722784129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 367
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6066b87ec1015690800000000000000
+      internalID: -7615303508606689174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 367
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3673a57d07bd3f0800000000000000
+      internalID: -874981632359570450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 367
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6477fa6d6d35550800000000000000
+      internalID: 6148494133846034149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_5
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 367
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d52d82ece538c360800000000000000
+      internalID: 7190056096626451920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 367
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f9d8c4dd9493f80800000000000000
+      internalID: -8126382837792399595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 367
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334fc808477de8300800000000000000
+      internalID: 256379124179596339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 367
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9ca76c4cc7b57b0800000000000000
+      internalID: -5234452957302699582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_9
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 367
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b293ec0c1951fc0800000000000000
+      internalID: -3524750876067943529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_10
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 367
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a17884bc3a6f2b0800000000000000
+      internalID: -5551069397197055468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 367
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1062ded73e15a4b60800000000000000
+      internalID: 7731081747846997505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 367
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad07f4ab2c5421060800000000000000
+      internalID: 6922672279873614042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_13
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 367
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d55fb6af63558b60800000000000000
+      internalID: 7747690472964838867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 367
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf128b89f1df37e0800000000000000
+      internalID: -1783476057697804364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_15
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 367
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c4fa9f1dbfdb4d0800000000000000
+      internalID: -3117058487814763430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_16
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 367
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242e79b20e234d470800000000000000
+      internalID: 8418409541847736898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_17
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 367
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37902ea7d62914eb0800000000000000
+      internalID: -4737344334106326669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_18
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 367
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34d8cdd45450a670800000000000000
+      internalID: 8547924816224113723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_19
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 367
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd6991d0a3086e50800000000000000
+      internalID: 6802691226389278135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_20
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 367
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf1e1f774f4a2ba0800000000000000
+      internalID: -6112986375708074055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_21
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 367
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69ad726a4bf6dc00800000000000000
+      internalID: 925203070369769838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_22
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 367
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cc8487a4ae27e80800000000000000
+      internalID: -8182219967412253631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_23
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 367
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152cf3c0ab7ad7940800000000000000
+      internalID: 5295573154368832081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_24
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 367
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bc92466d2ea4440800000000000000
+      internalID: 4920994953287027495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_25
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 367
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2bffe2ab0ce8c90800000000000000
+      internalID: -7165578051214920974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_26
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 367
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fff7865ccedaac0800000000000000
+      internalID: -3842154574471233790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_27
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 367
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607dfa3c58a833f40800000000000000
+      internalID: 5707057459926914822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99473c77b4229e350800000000000000
+      internalID: 6046401682248791193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_29
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 340
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbc028ade22bb660800000000000000
+      internalID: 7402548816636857281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_30
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 340
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79df516bce82c7620800000000000000
+      internalID: 2773136467685670295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_31
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 340
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957fa2820e2b7faf0800000000000000
+      internalID: -362624569163712679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_32
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 340
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608c5a873ae5ba590800000000000000
+      internalID: -7661926284843956218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_33
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 340
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d271b2c2fbbcec0800000000000000
+      internalID: -3545530085201728162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 340
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db0cbc10e2fa0f50800000000000000
+      internalID: 6848553227738942418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_35
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 340
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f638c28f286a210800000000000000
+      internalID: 1343905541226983286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_36
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 340
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387b422f720de74c0800000000000000
+      internalID: -4287760925225339005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 340
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab0481cacf681900800000000000000
+      internalID: 655396662403140524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 340
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa5e6411e9df2060800000000000000
+      internalID: 6930997912280128243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_39
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 340
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c831cb7d8ec52c7b0800000000000000
+      internalID: -5205496064165276788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_40
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 340
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e788c2b8f424adc20800000000000000
+      internalID: 3231968591996553342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_41
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 340
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74cc2d9eb6865d60800000000000000
+      internalID: 7878632751370126463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_42
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 340
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638c267dd54fac920800000000000000
+      internalID: 3011487984733308982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_43
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 340
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdb49ddf50d712f0800000000000000
+      internalID: -1002103281908662839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_44
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 340
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff14ad36696ef910800000000000000
+      internalID: 1873050382874451959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_45
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 340
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df89b01abcf577d0800000000000000
+      internalID: -2921150907205185584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_46
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 340
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b785bb5a266c140800000000000000
+      internalID: 4739584121806289791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 340
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb26f8807c77d9aa0800000000000000
+      internalID: -6152629819192417602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_48
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 340
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603ae42d338a14f40800000000000000
+      internalID: 5711030743007666950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_49
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 340
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce08ee62d8dccb0c0800000000000000
+      internalID: -4558542716678536980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_50
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 340
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611dfec22721eec80800000000000000
+      internalID: -8291669582353018602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_51
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 340
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c196850feb398bc0800000000000000
+      internalID: -3780424514424892992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_52
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 340
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22a9e6ae1d487cb0800000000000000
+      internalID: -4866054603329134038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_53
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 340
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8e393b8e352ebc0800000000000000
+      internalID: -3755346880363239169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_54
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 340
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13520a59e7bac0210800000000000000
+      internalID: 1300602952567760177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_55
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 340
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e03dfa0eea1dc260800000000000000
+      internalID: 7119376195631526119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_56
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 340
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea655b7bb4eac310800000000000000
+      internalID: 1426203725895396070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_57
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2020b0c5edc785fd0800000000000000
+      internalID: -2352993510832274942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4a4dc92c56dc440800000000000000
+      internalID: 4957730651334026461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_59
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 305
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c08024c2bac10e0800000000000000
+      internalID: -2297773503291061171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_60
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 305
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2eb750aeb870e50800000000000000
+      internalID: 6775538001632813818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 305
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a2ff45aae2f6f40800000000000000
+      internalID: 5723844960516516454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_62
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 305
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fc0719a2c02e6f0800000000000000
+      internalID: -656949218674421889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_63
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 305
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe85511f6ef06de00800000000000000
+      internalID: 1069059446108674287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_64
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 305
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bcbff22c865b510800000000000000
+      internalID: 1564271628819090308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_65
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 305
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6536a683b83d490800000000000000
+      internalID: -7722675861590944074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_66
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 305
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7632597abb5759730800000000000000
+      internalID: 4005236892446827367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_67
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 305
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80917f050d1b42a20800000000000000
+      internalID: 3036747557024241928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_68
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 305
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443a5c75dc984fbf0800000000000000
+      internalID: -291456560838368444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_69
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 305
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18131d0e5846bc620800000000000000
+      internalID: 2795438519878758785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_70
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 305
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecdba79ec529dba0800000000000000
+      internalID: -6063773854039548703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_71
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 305
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a4062977c25f100800000000000000
+      internalID: 141067855400553088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_72
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 305
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8ee2acc03cddd70800000000000000
+      internalID: 9069619684293142750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_73
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 305
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb4e42baf14cea00800000000000000
+      internalID: 787076579872099322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_74
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 305
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03f0ed94eab0dbf0800000000000000
+      internalID: -301535683969748209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_75
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 305
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ad1d8bcdb6926b0800000000000000
+      internalID: -5320602889023792621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_76
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 305
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6739c08f4f3fa34e0800000000000000
+      internalID: -2001018850953620618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_77
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 305
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84b5efeefd05b100800000000000000
+      internalID: 123019953420219530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_78
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 305
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7752ee44a968c70800000000000000
+      internalID: 8973028928426178521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_79
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 305
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecfe342eea00afe0800000000000000
+      internalID: -1179931084444467990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_80
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 305
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8d7f1dc3738bfc0800000000000000
+      internalID: -3478969977783461642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_81
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 305
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e01c2d6419c2f7f0800000000000000
+      internalID: -580180312409239321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_82
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 305
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfacadb8e03ffb450800000000000000
+      internalID: 6106866863539145467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_83
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 305
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b3af93a30219740800000000000000
+      internalID: 5156938482768821127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_84
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 305
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888782da542d898c0800000000000000
+      internalID: -3992209872964257656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_85
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 305
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bb9dbbc364e9a00800000000000000
+      internalID: 765126213363153820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_86
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b9f06ff488ca960800000000000000
+      internalID: 7614610946988677940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_87
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 278
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fd6ef7e95e36410800000000000000
+      internalID: 1469270372366343999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_88
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 278
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbd664dd5229e390800000000000000
+      internalID: -7788656294169748549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_89
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 278
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6548db363770eed0800000000000000
+      internalID: -2386776727690394262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_90
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 278
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9994776b0f49850800000000000000
+      internalID: 6382991238366861730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_91
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 278
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ded3a5aa614a460800000000000000
+      internalID: 7251946220887600397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_92
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 278
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf46e5f6668fbe00800000000000000
+      internalID: 1062715813853024187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_93
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 278
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970deb49b62773f70800000000000000
+      internalID: 9166921372918534265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_94
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 278
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bcc09c4f66966b0800000000000000
+      internalID: -5302593884720936045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 278
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b164879be3e3f00800000000000000
+      internalID: 1098384325432711972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_96
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 278
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39bc189076a756e0800000000000000
+      internalID: -1848826119493732033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_97
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 278
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c5a638a1a88ad40800000000000000
+      internalID: 5595874383486409773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_98
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 278
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371ea7a5d44ef0700800000000000000
+      internalID: 508876303797772659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_99
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 278
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5ef62c94ab0fc90800000000000000
+      internalID: -7138000583424743975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_100
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 278
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea0f391de85e3680800000000000000
+      internalID: -8773477248717092117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_101
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 278
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d366b97a7241bd6a0800000000000000
+      internalID: -6423518282965621187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_102
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 278
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a370ed8bdc5b8b750800000000000000
+      internalID: 6321001972188972858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_103
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 278
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45832c5066f53d970800000000000000
+      internalID: 8778464990463146068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_104
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 278
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709cfa50f6eddd170800000000000000
+      internalID: 8204958664557054215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_105
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 278
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a0fbd8f67e45b10800000000000000
+      internalID: 1969453403373242963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_106
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 278
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4d5debc3119a130800000000000000
+      internalID: 3578410331519964399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_107
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 278
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4653d4b18c77740800000000000000
+      internalID: 5149804718506468535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_108
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 278
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb51f8191e758f7f0800000000000000
+      internalID: -578615925795777092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_109
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 278
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebed86c26d54c5910800000000000000
+      internalID: 1827412334975966910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_110
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 278
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64829841c5836900800000000000000
+      internalID: 676531434228450412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_111
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 278
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c80d2535c578430800000000000000
+      internalID: 3785095524769631272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_112
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 278
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49507edef0f69a330800000000000000
+      internalID: 3722628681204958612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_113
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 278
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf2d01a0b1c2a500800000000000000
+      internalID: 406099880777166811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_114
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 278
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c39deaaaa7e7a60800000000000000
+      internalID: 7673705688582405142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_115
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1295fb8dee8809fd0800000000000000
+      internalID: -2337217647185274591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ceb8c2e797c92e0800000000000000
+      internalID: -2117684141950767987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_117
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 243
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda3ed8f3ea96ebb0800000000000000
+      internalID: -4907064440050009379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_118
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 243
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccab18210a7daee20800000000000000
+      internalID: 3380751552800209612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_119
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 243
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11786aebd2401b410800000000000000
+      internalID: 1490977546154968849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_120
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 243
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c817ba3fe8a9200800000000000000
+      internalID: 187619511693839495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_121
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 243
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c1d939210627b60800000000000000
+      internalID: 7742356342305528939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_122
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 243
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501703aecc96b2c60800000000000000
+      internalID: 7794439908918063365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_123
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 243
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081dd3c8f38e74fa0800000000000000
+      internalID: -5816425034092260992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_124
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 243
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9eba222b6086990800000000000000
+      internalID: -7392651426173031973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_125
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 243
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6530cb2e55dd35340800000000000000
+      internalID: 4851464584554087254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_126
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 243
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19dc8bc31cffa2c0800000000000000
+      internalID: -4418035547477583586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_127
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 243
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6236d775765769cd0800000000000000
+      internalID: -2551723052148890842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_128
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 243
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a09e203b93ce0580800000000000000
+      internalID: -8858928345695481690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_129
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 243
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1877090fb157c3910800000000000000
+      internalID: 1818457112411404161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_130
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 243
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4015050d5e503b070800000000000000
+      internalID: 8120841037679710468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_131
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 243
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75160e10844540d0800000000000000
+      internalID: -3439267423377287813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_132
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 243
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1053df2a17f493c0800000000000000
+      internalID: -4353583247916838884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_133
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 243
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a74a64cf96a045b0800000000000000
+      internalID: -5386121949209802845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_134
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 243
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e415270be4bf20e0800000000000000
+      internalID: -2292414763778108187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_135
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 243
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b5937c3f644d240800000000000000
+      internalID: 4815551914399325053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_136
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 243
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53892369115808f00800000000000000
+      internalID: 1117039018168719413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_137
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 243
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7320dbb2e40eca820800000000000000
+      internalID: 2930964083857228343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_138
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 243
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dd03438b55ce0c0800000000000000
+      internalID: -4545163674285712051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_139
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 243
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367e0fa54a6254590800000000000000
+      internalID: -7690698301323024541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_140
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 243
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d0d8a89f0690600800000000000000
+      internalID: 434985463905586582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_141
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 243
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d45fcce9f93e2c0800000000000000
+      internalID: -4403500506245935815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_142
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 243
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669b2adc12c935e40800000000000000
+      internalID: 5644026427023210854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_143
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 243
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c06396e490a37690800000000000000
+      internalID: -7605558784314613559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_144
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 197
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2353c2a57c58bdf0800000000000000
+      internalID: -164279726087384276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_145
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 197
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d9aebc5413ac580800000000000000
+      internalID: -8806171945525928660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_146
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 216
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bae805c1f0774b0800000000000000
+      internalID: -5442865010368926945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_147
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 216
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b56da7584bdc1f40800000000000000
+      internalID: 5700672332099315126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_148
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 216
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d324502fad1cb40800000000000000
+      internalID: 5458884956354919769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_149
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 216
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d34fbe710a957a00800000000000000
+      internalID: 753677843866534864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_150
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 197
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fbeabea66118f60800000000000000
+      internalID: 8034727858682117925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_151
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 197
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06f2a5d5376b65d0800000000000000
+      internalID: -3068245240207706613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_152
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 197
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f299e354411b89b0800000000000000
+      internalID: -5076945169766837518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_153
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 197
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51c7d452e8feff40800000000000000
+      internalID: 5764318224050536799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_154
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 197
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be533382c12344de0800000000000000
+      internalID: -1349898891789388309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_155
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 197
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb2946834b99d110800000000000000
+      internalID: 1286229882909043647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_156
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 197
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f221cce8c865cfb30800000000000000
+      internalID: 4322424904059982383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_157
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 197
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fec8bcebacae290800000000000000
+      internalID: -7860247278814171366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_158
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 197
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe343b3d8ba9c300800000000000000
+      internalID: 272937875504643772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_159
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 197
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2bf06ddbeda2830800000000000000
+      internalID: 4047292122067350260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_160
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 197
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d52cf33efcabad0800000000000000
+      internalID: -2685605652838851316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_161
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 170
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d862d621f7111e470800000000000000
+      internalID: 8422032015627200141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_162
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 170
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e917595de36fd370800000000000000
+      internalID: 8349502105225468384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_163
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 170
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d3354f0b607d5c0800000000000000
+      internalID: -4190873571161850466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_164
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 170
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0c2487befb799e0800000000000000
+      internalID: -1614610923333172999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_165
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 170
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2f22a2e0b388c70800000000000000
+      internalID: 8973487189558227632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_166
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 170
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3a28461e79309b0800000000000000
+      internalID: -5115077757453032493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_167
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 170
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d110bd31a0174f0800000000000000
+      internalID: -832873375691891343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_168
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 170
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171d9fd96e9a778a0800000000000000
+      internalID: -6307385945151123087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_169
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 170
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68c90bd0941c7530800000000000000
+      internalID: 3853977993504999531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_170
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 170
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68441500e198a2680800000000000000
+      internalID: -8779053761658010490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_171
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 170
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb6a7520d3000060800000000000000
+      internalID: 6917533220157942720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_172
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 170
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d2b77081f780e30800000000000000
+      internalID: 4469962371346672928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_173
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 170
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5362c492a495600800000000000000
+      internalID: 457478378386503165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_174
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 170
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc48a12f8cffc6d0800000000000000
+      internalID: -2967875937738666759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_175
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 170
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2417021fd6ae1bb30800000000000000
+      internalID: 4301476877033304386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_176
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 170
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486c8bfe6a43f8cd0800000000000000
+      internalID: -2553764572104702332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_177
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 170
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0574060be12b6550800000000000000
+      internalID: 6155050609033901324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_178
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 170
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10deb5146373ecac0800000000000000
+      internalID: -3833065526681408255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_179
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 170
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9670c9b10643db00800000000000000
+      internalID: 852101727728465562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_180
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 170
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e7da351befd8aa0800000000000000
+      internalID: -6156985077979054445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_181
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 170
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bced587ce3deb770800000000000000
+      internalID: 8628566948673612982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_182
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 170
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77da1f0460d7f8e0800000000000000
+      internalID: -1659628809494014083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_183
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 170
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26621acb090459cf0800000000000000
+      internalID: -246219614237677982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_184
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 171
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0b64b70bce96e20800000000000000
+      internalID: 3344464441025933491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_185
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b307f7aae0fb2b7a0800000000000000
+      internalID: -6362813253810163653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_186
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 143
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2779fb02d53aed90800000000000000
+      internalID: -7067777488944269521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_187
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 143
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71d94b5cf2ed16e0800000000000000
+      internalID: -1865085097170316931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_188
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7215cc9030e139190800000000000000
+      internalID: -7956983118235414233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_189
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 143
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a112a8053952020800000000000000
+      internalID: 2316419557476080223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_190
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 143
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde86df38160d3f00800000000000000
+      internalID: 1098040585368276699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_191
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 143
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba217498d630f34c0800000000000000
+      internalID: -4305718949753449813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_192
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 143
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337c43bd9e6c457e0800000000000000
+      internalID: -1777577245197154509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_193
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 143
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0725ec2495aad0020800000000000000
+      internalID: 2309689484260561520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_194
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 143
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba3ea35314429d80800000000000000
+      internalID: -8245453117962962255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_195
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 143
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dead70f2f4072a540800000000000000
+      internalID: 5017696420237925101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_196
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 143
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590845c0236558530800000000000000
+      internalID: 3856583428867915925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_197
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 143
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2085f595dfe853e50800000000000000
+      internalID: 6788489232108181506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_198
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 143
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87296d65c36eec720800000000000000
+      internalID: 2868483159510913656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_199
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 143
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0813b042b06ff00800000000000000
+      internalID: 1150119004274262206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_200
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 143
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6335fa36672f53850800000000000000
+      internalID: 6356253039395820342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_201
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 143
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84389923419d8f880800000000000000
+      internalID: -8576866809555614904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_202
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c928ec0fba3e2b0800000000000000
+      internalID: -5556408464499893184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_203
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 116
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44151c2b582491210800000000000000
+      internalID: 1304146709097566532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_204
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 116
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b6c950212ca9010800000000000000
+      internalID: 1196482033679625000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_205
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 116
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751ccf612c777b0e0800000000000000
+      internalID: -2254201412982619817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_206
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 116
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bf344b53ec31630800000000000000
+      internalID: 3896684832658553661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_207
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 116
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc93deb76636cc610800000000000000
+      internalID: 1642797255900346831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_208
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 116
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745a589d88debbc80800000000000000
+      internalID: -8305783915733998265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_209
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 116
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eef2b6a69e20c360800000000000000
+      internalID: 7187796229860032230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_210
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 116
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba4ef08e4c5aa9f0800000000000000
+      internalID: -456450919983330633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_211
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 116
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eed98a8d76faa8b0800000000000000
+      internalID: -5140025005634363678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_212
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 116
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2b2f9cca81c42e0800000000000000
+      internalID: -2140308592506260753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_213
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 116
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce54247b62d275550800000000000000
+      internalID: 6149433460504282604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_214
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 124
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b162ad1a9222f90800000000000000
+      internalID: -6979970697344443493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_215
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 116
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f247a8801e0e470800000000000000
+      internalID: 8421978729981685645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_216
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 116
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e5ba70ce5256a00800000000000000
+      internalID: 749046608698236436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_217
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 116
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b539b83e620c220800000000000000
+      internalID: 2504044151559117695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_218
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 116
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6c28cff5f4aae50800000000000000
+      internalID: 6821351859282953956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_219
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 116
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1c51015d3714230800000000000000
+      internalID: 3621302934317679087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_220
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 116
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd9821cd6b979530800000000000000
+      internalID: 3861726101187894707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_221
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 116
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6586b8de49e1d2e60800000000000000
+      internalID: 7939035343113381974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_222
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 116
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b2458641158bec0800000000000000
+      internalID: -3550999158090093757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_223
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 116
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0705d21f94e64b70800000000000000
+      internalID: 8883038686901765899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_224
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 116
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7e527016c7f3610800000000000000
+      internalID: 1603136748540782539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_225
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 89
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d177dbd1d14cef90800000000000000
+      internalID: -6923086157582994991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_226
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 89
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdb2586f4dc30290800000000000000
+      internalID: -7925265178305577536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_227
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 89
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5743b2786bcaa6720800000000000000
+      internalID: 2840272414962300021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_228
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 89
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe12f4bbdf61bc0c0800000000000000
+      internalID: -4554521319130062353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_229
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5b4e73055a68d10800000000000000
+      internalID: 2127569637932840408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_230
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fffcf7a8878deb0800000000000000
+      internalID: -4694870075288584340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_231
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f327cd6eafe313d00800000000000000
+      internalID: 950610243687838271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_232
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3013f903b8ea00ca0800000000000000
+      internalID: -6052645986346520317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_233
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30812158fcb751a00800000000000000
+      internalID: 726623046111205379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_234
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bb3e155ed822ec0800000000000000
+      internalID: -3593153536627328137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_235
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e661e5a088c2dd0800000000000000
+      internalID: -2509481314242630142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_236
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0504bf20770b13e0800000000000000
+      internalID: -2082062224310663921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_237
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343aa931d259e0ac0800000000000000
+      internalID: -3887005407539190973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_238
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5289cf31ea52d54f0800000000000000
+      internalID: -838472526031185883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_239
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6239fd605f38a9d0800000000000000
+      internalID: -2762888756716817814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_240
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fa40796913e6e50800000000000000
+      internalID: 6804430609851920139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_241
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb4b383bf2866390800000000000000
+      internalID: -7825423287017845831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_242
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1c13b95a55c4e20800000000000000
+      internalID: 3336135593736389093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_243
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8d3fb239d678540800000000000000
+      internalID: 5010093589337987269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_244
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b7b246ad2d23890800000000000000
+      internalID: -7479684195683697867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_245
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caae56bbafbdc0250800000000000000
+      internalID: 5912342280762944172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_246
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f08006a640088a0800000000000000
+      internalID: -6305034623394508923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_247
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd38da29c02e5c450800000000000000
+      internalID: 6108537013226275804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_248
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711d8a3db4ca5b780800000000000000
+      internalID: -8667832466131070697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_249
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a97a5c700ebf9a0800000000000000
+      internalID: -6198114138159867296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_250
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9c2fe968b450190800000000000000
+      internalID: -7996902521762035247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_251
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec72f00257852c0f0800000000000000
+      internalID: -1098218099052697650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_252
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2552e68c2838d20800000000000000
+      internalID: 3279608751008862939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_253
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 52
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32006c11b4d0901e0800000000000000
+      internalID: -2231237524313472989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_254
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 35
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1377b8657983b4b0800000000000000
+      internalID: -5425841988690283749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_255
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 52
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912606867de559140800000000000000
+      internalID: 4725787663257330201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_256
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfd6e2c285c243c0800000000000000
+      internalID: -4376718722444369955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_257
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0733ab1d9fe8bce40800000000000000
+      internalID: 5677788958847284080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_258
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4492d648e1edc210800000000000000
+      internalID: 1354987450645255242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_259
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226e2e1e8c4743820800000000000000
+      internalID: 2897068866438096418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_260
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b63f47a3ec8ecfa0800000000000000
+      internalID: -5778526362477316432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_261
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df2de5013e525a60800000000000000
+      internalID: 7661289480756473810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_262
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f66bc117505011c0800000000000000
+      internalID: -4535036489871169804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spirtesMario_263
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16f0c1d842fde740800000000000000
+      internalID: 5183065140743960095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spirtesMario_0: -5863075460828850356
+      spirtesMario_1: -1752704008722784129
+      spirtesMario_10: -5551069397197055468
+      spirtesMario_100: -8773477248717092117
+      spirtesMario_101: -6423518282965621187
+      spirtesMario_102: 6321001972188972858
+      spirtesMario_103: 8778464990463146068
+      spirtesMario_104: 8204958664557054215
+      spirtesMario_105: 1969453403373242963
+      spirtesMario_106: 3578410331519964399
+      spirtesMario_107: 5149804718506468535
+      spirtesMario_108: -578615925795777092
+      spirtesMario_109: 1827412334975966910
+      spirtesMario_11: 7731081747846997505
+      spirtesMario_110: 676531434228450412
+      spirtesMario_111: 3785095524769631272
+      spirtesMario_112: 3722628681204958612
+      spirtesMario_113: 406099880777166811
+      spirtesMario_114: 7673705688582405142
+      spirtesMario_115: -2337217647185274591
+      spirtesMario_116: -2117684141950767987
+      spirtesMario_117: -4907064440050009379
+      spirtesMario_118: 3380751552800209612
+      spirtesMario_119: 1490977546154968849
+      spirtesMario_12: 6922672279873614042
+      spirtesMario_120: 187619511693839495
+      spirtesMario_121: 7742356342305528939
+      spirtesMario_122: 7794439908918063365
+      spirtesMario_123: -5816425034092260992
+      spirtesMario_124: -7392651426173031973
+      spirtesMario_125: 4851464584554087254
+      spirtesMario_126: -4418035547477583586
+      spirtesMario_127: -2551723052148890842
+      spirtesMario_128: -8858928345695481690
+      spirtesMario_129: 1818457112411404161
+      spirtesMario_13: 7747690472964838867
+      spirtesMario_130: 8120841037679710468
+      spirtesMario_131: -3439267423377287813
+      spirtesMario_132: -4353583247916838884
+      spirtesMario_133: -5386121949209802845
+      spirtesMario_134: -2292414763778108187
+      spirtesMario_135: 4815551914399325053
+      spirtesMario_136: 1117039018168719413
+      spirtesMario_137: 2930964083857228343
+      spirtesMario_138: -4545163674285712051
+      spirtesMario_139: -7690698301323024541
+      spirtesMario_14: -1783476057697804364
+      spirtesMario_140: 434985463905586582
+      spirtesMario_141: -4403500506245935815
+      spirtesMario_142: 5644026427023210854
+      spirtesMario_143: -7605558784314613559
+      spirtesMario_144: -164279726087384276
+      spirtesMario_145: -8806171945525928660
+      spirtesMario_146: -5442865010368926945
+      spirtesMario_147: 5700672332099315126
+      spirtesMario_148: 5458884956354919769
+      spirtesMario_149: 753677843866534864
+      spirtesMario_15: -3117058487814763430
+      spirtesMario_150: 8034727858682117925
+      spirtesMario_151: -3068245240207706613
+      spirtesMario_152: -5076945169766837518
+      spirtesMario_153: 5764318224050536799
+      spirtesMario_154: -1349898891789388309
+      spirtesMario_155: 1286229882909043647
+      spirtesMario_156: 4322424904059982383
+      spirtesMario_157: -7860247278814171366
+      spirtesMario_158: 272937875504643772
+      spirtesMario_159: 4047292122067350260
+      spirtesMario_16: 8418409541847736898
+      spirtesMario_160: -2685605652838851316
+      spirtesMario_161: 8422032015627200141
+      spirtesMario_162: 8349502105225468384
+      spirtesMario_163: -4190873571161850466
+      spirtesMario_164: -1614610923333172999
+      spirtesMario_165: 8973487189558227632
+      spirtesMario_166: -5115077757453032493
+      spirtesMario_167: -832873375691891343
+      spirtesMario_168: -6307385945151123087
+      spirtesMario_169: 3853977993504999531
+      spirtesMario_17: -4737344334106326669
+      spirtesMario_170: -8779053761658010490
+      spirtesMario_171: 6917533220157942720
+      spirtesMario_172: 4469962371346672928
+      spirtesMario_173: 457478378386503165
+      spirtesMario_174: -2967875937738666759
+      spirtesMario_175: 4301476877033304386
+      spirtesMario_176: -2553764572104702332
+      spirtesMario_177: 6155050609033901324
+      spirtesMario_178: -3833065526681408255
+      spirtesMario_179: 852101727728465562
+      spirtesMario_18: 8547924816224113723
+      spirtesMario_180: -6156985077979054445
+      spirtesMario_181: 8628566948673612982
+      spirtesMario_182: -1659628809494014083
+      spirtesMario_183: -246219614237677982
+      spirtesMario_184: 3344464441025933491
+      spirtesMario_185: -6362813253810163653
+      spirtesMario_186: -7067777488944269521
+      spirtesMario_187: -1865085097170316931
+      spirtesMario_188: -7956983118235414233
+      spirtesMario_189: 2316419557476080223
+      spirtesMario_19: 6802691226389278135
+      spirtesMario_190: 1098040585368276699
+      spirtesMario_191: -4305718949753449813
+      spirtesMario_192: -1777577245197154509
+      spirtesMario_193: 2309689484260561520
+      spirtesMario_194: -8245453117962962255
+      spirtesMario_195: 5017696420237925101
+      spirtesMario_196: 3856583428867915925
+      spirtesMario_197: 6788489232108181506
+      spirtesMario_198: 2868483159510913656
+      spirtesMario_199: 1150119004274262206
+      spirtesMario_2: -7615303508606689174
+      spirtesMario_20: -6112986375708074055
+      spirtesMario_200: 6356253039395820342
+      spirtesMario_201: -8576866809555614904
+      spirtesMario_202: -5556408464499893184
+      spirtesMario_203: 1304146709097566532
+      spirtesMario_204: 1196482033679625000
+      spirtesMario_205: -2254201412982619817
+      spirtesMario_206: 3896684832658553661
+      spirtesMario_207: 1642797255900346831
+      spirtesMario_208: -8305783915733998265
+      spirtesMario_209: 7187796229860032230
+      spirtesMario_21: 925203070369769838
+      spirtesMario_210: -456450919983330633
+      spirtesMario_211: -5140025005634363678
+      spirtesMario_212: -2140308592506260753
+      spirtesMario_213: 6149433460504282604
+      spirtesMario_214: -6979970697344443493
+      spirtesMario_215: 8421978729981685645
+      spirtesMario_216: 749046608698236436
+      spirtesMario_217: 2504044151559117695
+      spirtesMario_218: 6821351859282953956
+      spirtesMario_219: 3621302934317679087
+      spirtesMario_22: -8182219967412253631
+      spirtesMario_220: 3861726101187894707
+      spirtesMario_221: 7939035343113381974
+      spirtesMario_222: -3550999158090093757
+      spirtesMario_223: 8883038686901765899
+      spirtesMario_224: 1603136748540782539
+      spirtesMario_225: -6923086157582994991
+      spirtesMario_226: -7925265178305577536
+      spirtesMario_227: 2840272414962300021
+      spirtesMario_228: -4554521319130062353
+      spirtesMario_229: 2127569637932840408
+      spirtesMario_23: 5295573154368832081
+      spirtesMario_230: -4694870075288584340
+      spirtesMario_231: 950610243687838271
+      spirtesMario_232: -6052645986346520317
+      spirtesMario_233: 726623046111205379
+      spirtesMario_234: -3593153536627328137
+      spirtesMario_235: -2509481314242630142
+      spirtesMario_236: -2082062224310663921
+      spirtesMario_237: -3887005407539190973
+      spirtesMario_238: -838472526031185883
+      spirtesMario_239: -2762888756716817814
+      spirtesMario_24: 4920994953287027495
+      spirtesMario_240: 6804430609851920139
+      spirtesMario_241: -7825423287017845831
+      spirtesMario_242: 3336135593736389093
+      spirtesMario_243: 5010093589337987269
+      spirtesMario_244: -7479684195683697867
+      spirtesMario_245: 5912342280762944172
+      spirtesMario_246: -6305034623394508923
+      spirtesMario_247: 6108537013226275804
+      spirtesMario_248: -8667832466131070697
+      spirtesMario_249: -6198114138159867296
+      spirtesMario_25: -7165578051214920974
+      spirtesMario_250: -7996902521762035247
+      spirtesMario_251: -1098218099052697650
+      spirtesMario_252: 3279608751008862939
+      spirtesMario_253: -2231237524313472989
+      spirtesMario_254: -5425841988690283749
+      spirtesMario_255: 4725787663257330201
+      spirtesMario_256: -4376718722444369955
+      spirtesMario_257: 5677788958847284080
+      spirtesMario_258: 1354987450645255242
+      spirtesMario_259: 2897068866438096418
+      spirtesMario_26: -3842154574471233790
+      spirtesMario_260: -5778526362477316432
+      spirtesMario_261: 7661289480756473810
+      spirtesMario_262: -4535036489871169804
+      spirtesMario_263: 5183065140743960095
+      spirtesMario_27: 5707057459926914822
+      spirtesMario_28: 6046401682248791193
+      spirtesMario_29: 7402548816636857281
+      spirtesMario_3: -874981632359570450
+      spirtesMario_30: 2773136467685670295
+      spirtesMario_31: -362624569163712679
+      spirtesMario_32: -7661926284843956218
+      spirtesMario_33: -3545530085201728162
+      spirtesMario_34: 6848553227738942418
+      spirtesMario_35: 1343905541226983286
+      spirtesMario_36: -4287760925225339005
+      spirtesMario_37: 655396662403140524
+      spirtesMario_38: 6930997912280128243
+      spirtesMario_39: -5205496064165276788
+      spirtesMario_4: 6148494133846034149
+      spirtesMario_40: 3231968591996553342
+      spirtesMario_41: 7878632751370126463
+      spirtesMario_42: 3011487984733308982
+      spirtesMario_43: -1002103281908662839
+      spirtesMario_44: 1873050382874451959
+      spirtesMario_45: -2921150907205185584
+      spirtesMario_46: 4739584121806289791
+      spirtesMario_47: -6152629819192417602
+      spirtesMario_48: 5711030743007666950
+      spirtesMario_49: -4558542716678536980
+      spirtesMario_5: 7190056096626451920
+      spirtesMario_50: -8291669582353018602
+      spirtesMario_51: -3780424514424892992
+      spirtesMario_52: -4866054603329134038
+      spirtesMario_53: -3755346880363239169
+      spirtesMario_54: 1300602952567760177
+      spirtesMario_55: 7119376195631526119
+      spirtesMario_56: 1426203725895396070
+      spirtesMario_57: -2352993510832274942
+      spirtesMario_58: 4957730651334026461
+      spirtesMario_59: -2297773503291061171
+      spirtesMario_6: -8126382837792399595
+      spirtesMario_60: 6775538001632813818
+      spirtesMario_61: 5723844960516516454
+      spirtesMario_62: -656949218674421889
+      spirtesMario_63: 1069059446108674287
+      spirtesMario_64: 1564271628819090308
+      spirtesMario_65: -7722675861590944074
+      spirtesMario_66: 4005236892446827367
+      spirtesMario_67: 3036747557024241928
+      spirtesMario_68: -291456560838368444
+      spirtesMario_69: 2795438519878758785
+      spirtesMario_7: 256379124179596339
+      spirtesMario_70: -6063773854039548703
+      spirtesMario_71: 141067855400553088
+      spirtesMario_72: 9069619684293142750
+      spirtesMario_73: 787076579872099322
+      spirtesMario_74: -301535683969748209
+      spirtesMario_75: -5320602889023792621
+      spirtesMario_76: -2001018850953620618
+      spirtesMario_77: 123019953420219530
+      spirtesMario_78: 8973028928426178521
+      spirtesMario_79: -1179931084444467990
+      spirtesMario_8: -5234452957302699582
+      spirtesMario_80: -3478969977783461642
+      spirtesMario_81: -580180312409239321
+      spirtesMario_82: 6106866863539145467
+      spirtesMario_83: 5156938482768821127
+      spirtesMario_84: -3992209872964257656
+      spirtesMario_85: 765126213363153820
+      spirtesMario_86: 7614610946988677940
+      spirtesMario_87: 1469270372366343999
+      spirtesMario_88: -7788656294169748549
+      spirtesMario_89: -2386776727690394262
+      spirtesMario_9: -3524750876067943529
+      spirtesMario_90: 6382991238366861730
+      spirtesMario_91: 7251946220887600397
+      spirtesMario_92: 1062715813853024187
+      spirtesMario_93: 9166921372918534265
+      spirtesMario_94: -5302593884720936045
+      spirtesMario_95: 1098384325432711972
+      spirtesMario_96: -1848826119493732033
+      spirtesMario_97: 5595874383486409773
+      spirtesMario_98: 508876303797772659
+      spirtesMario_99: -7138000583424743975
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
