@@ -8,13 +8,15 @@ public class MarioMovement : MonoBehaviour
 
     private Rigidbody2D rigidbody2D;
     private float horizontal;
-    //El Animator contiene información sobre las animaciones (para que cambie a CORRER, SALTAR, ETC)
+    //El Animator contiene información sobre las animaciones (para que cambie visualmente a CORRER, SALTAR, ETC)
     private Animator animator;
 
     void Start()
     {
         //Esto busca un componente "Rigidbody2D". Como el Script va a estar asociado al personaje (Mario), va a coger el de Mario.
         rigidbody2D = GetComponent<Rigidbody2D>();
+
+        //Esto busca un componente "Animator". Como el Script va a estar asociado a la animación de Mario, es la que va a coger
         animator = GetComponent<Animator>();
     }
 
@@ -29,6 +31,7 @@ public class MarioMovement : MonoBehaviour
             //Si esto es TRUE significa que se está pulsando IZQUIERDA
             case < 0f:
                 //Si está mirando a la derecha (el valor de SCALE.X es positivo)
+                //¡¡OJO!! Para que esto funcione el sprite por defecto debe estar mirando a la derecha, si no irá siempre al revés.
                 if (transform.localScale.x > 0f)
                 {
                     invertirScaleX();
@@ -37,9 +40,10 @@ public class MarioMovement : MonoBehaviour
             //Si esto es TRUE significa que está pulsando DERECHA
             case > 0f:
                 //Si está mirando a la izquierda (el valor de SCALE.X es negativo)
+                //¡¡OJO!! Para que esto funcione el sprite por defecto debe estar mirando a la derecha, si no irá siempre al revés.
                 if (transform.localScale.x < 0f)
                 {
-                    invertirScaleX();
+                   invertirScaleX();
                 }
                 break;
         }
@@ -75,12 +79,13 @@ public class MarioMovement : MonoBehaviour
         //Debug.DrawRay(transform.position, transform.TransformDirection(Vector3.down) * checkDistance, Color.green);
 
         //Devuelve TRUE si choca con algo que esté justo debajo
-        //¡¡OJO!! Por defecto esto siempre será TRUE, por que choca contra si mismo. Para que funcione hay que ir a "Edit" > "Project Settings" > "Physics 2D" > Desactivar "Queries Start in Colliders"
+        //¡¡OJO!! Por defecto esto siempre será TRUE, por que choca contra si mismo. Para que funcione bien hay que ir a "Edit" > "Project Settings" > "Physics 2D" > Desactivar "Queries Start in Colliders"
         return Physics2D.Raycast(transform.position, transform.TransformDirection(Vector3.down), checkDistance);
     }
 
     /**
-     * Este método invierte la coordenada X de SCALE. Esto hace que la imagen se voltee horizontalmente. Se usa para simular que esté mirando a la derecha o la izquierda.
+     * Este método invierte la coordenada X de SCALE. Esto hace que la imagen se voltee horizontalmente.
+     * Se usa para simular que esté mirando a la derecha o la izquierda.
      */ 
     private void invertirScaleX()
     {

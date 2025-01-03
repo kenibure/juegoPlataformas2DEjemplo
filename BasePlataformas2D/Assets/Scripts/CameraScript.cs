@@ -8,6 +8,7 @@ public class CameraScript : MonoBehaviour
     private void Update()
     {
         Vector3 cameraPosition = transform.position;
+        //Esto hace que solo le siga en el eje X.
         cameraPosition.x = gameObjectToFollow.transform.position.x;
         transform.position = cameraPosition;
     }
