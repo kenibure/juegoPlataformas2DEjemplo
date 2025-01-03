@@ -1,9 +1,10 @@
 using UnityEngine;
 using static UnityEditor.Searcher.SearcherWindow.Alignment;
 
+//Koopa es un enemigo con el tag "enemy_01". No tiene nada especial y cuando Mario lo toca se muere.
 public class KoopaScript : MonoBehaviour
 {
-    public float horizontalSpeed = 1;
+    public float horizontalSpeed = 0.2f;
 
     //Es necesario tener el GameObject del jugador para que este enemigo/Koopa le esté mirando y sepa hacia donde ir.
     public GameObject player;

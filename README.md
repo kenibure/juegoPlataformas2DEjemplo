@@ -2,7 +2,6 @@
 Objetivos:
 - Efecto paralax
 - Saltos más largos al mantener el botón
-- Enemigos que cuando los tocas te matan
 - Coleccionables (tipo monedas de Mario)
 
 Objetivos conseguidos:
@@ -10,6 +9,7 @@ Objetivos conseguidos:
 - Saltos
 - Animaciones tipo sprite
 - Los enemigos se mueven
+- Enemigos que cuando los tocas te matan
 
 
 Tutorial de ejemplo (no se ha seguido 100%)

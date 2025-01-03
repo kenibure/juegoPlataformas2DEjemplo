@@ -91,4 +91,12 @@ public class MarioMovement : MonoBehaviour
     {
         transform.localScale = new Vector3(transform.localScale.x * -1, transform.localScale.y, transform.localScale.z);
     }
+
+    private void OnCollisionEnter2D(Collision2D otherElement)
+    {
+        if (otherElement.gameObject.tag == "enemy_01")
+        {
+            Debug.Log("MUERTO");
+        }
+    }
 }
