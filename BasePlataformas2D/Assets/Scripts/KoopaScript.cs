@@ -3,9 +3,22 @@ using static UnityEditor.Searcher.SearcherWindow.Alignment;
 
 public class KoopaScript : MonoBehaviour
 {
+    public float horizontalSpeed = 1;
+
     //Es necesario tener el GameObject del jugador para que este enemigo/Koopa le esté mirando y sepa hacia donde ir.
     public GameObject player;
 
+    private Rigidbody2D rigidbody2D;
+    private float horizontal;
+
+    void Start()
+    {
+        //Esto busca un componente "Rigidbody2D". Como el Script va a estar asociado al enemigo/Koopa, va a coger el de ese enemigo.
+        rigidbody2D = GetComponent<Rigidbody2D>();
+
+        //Esto busca un componente "Animator". Como el Script va a estar asociado a la animación de Mario, es la que va a coger
+        //animator = GetComponent<Animator>();
+    }
 
     void Update()
     {
@@ -33,6 +46,8 @@ public class KoopaScript : MonoBehaviour
                 }
                 break;
         }
+
+        horizontal = direction.x;
     }
 
 
@@ -43,5 +58,11 @@ public class KoopaScript : MonoBehaviour
     private void invertirScaleX()
     {
         transform.localScale = new Vector3(transform.localScale.x * -1, transform.localScale.y, transform.localScale.z);
+    }
+
+    //Para las físicas (movimiento) mejor utilizar FixedUpdate que Update, ya que FixedUpdate es independiente de los FPS.
+    private void FixedUpdate()
+    {
+        rigidbody2D.linearVelocity = new Vector2(horizontal * horizontalSpeed, rigidbody2D.linearVelocity.y);
     }
 }
