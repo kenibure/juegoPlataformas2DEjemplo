@@ -24,12 +24,31 @@ public class MarioMovement : MonoBehaviour
         //Si pulsa "D" o flecha der => +1
         horizontal = Input.GetAxisRaw("Horizontal");
 
+        switch(horizontal)
+        {
+            //Si esto es TRUE significa que se está pulsando IZQUIERDA
+            case < 0f:
+                //Si está mirando a la derecha (el valor de SCALE.X es positivo)
+                if (transform.localScale.x > 0f)
+                {
+                    invertirScaleX();
+                }
+                break;
+            //Si esto es TRUE significa que está pulsando DERECHA
+            case > 0f:
+                //Si está mirando a la izquierda (el valor de SCALE.X es negativo)
+                if (transform.localScale.x < 0f)
+                {
+                    invertirScaleX();
+                }
+                break;
+        }
+
         //Esto hace que se active la animación de CORRER si la horizontal es distinto de 0, es decir si está corriendo para un lado o para otro.
         animator.SetBool("running", horizontal != 0);
 
         if (Input.GetKeyDown(KeyCode.Space) && marioIsGrounded())
         {
-            Debug.Log("Se ha pulsado la techa de saltar.");
             Jump();
         }
     }
@@ -58,5 +77,13 @@ public class MarioMovement : MonoBehaviour
         //Devuelve TRUE si choca con algo que esté justo debajo
         //¡¡OJO!! Por defecto esto siempre será TRUE, por que choca contra si mismo. Para que funcione hay que ir a "Edit" > "Project Settings" > "Physics 2D" > Desactivar "Queries Start in Colliders"
         return Physics2D.Raycast(transform.position, transform.TransformDirection(Vector3.down), checkDistance);
+    }
+
+    /**
+     * Este método invierte la coordenada X de SCALE. Esto hace que la imagen se voltee horizontalmente. Se usa para simular que esté mirando a la derecha o la izquierda.
+     */ 
+    private void invertirScaleX()
+    {
+        transform.localScale = new Vector3(transform.localScale.x * -1, transform.localScale.y, transform.localScale.z);
     }
 }
